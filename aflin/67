@@ -1,0 +1,1 @@
+mirror([90,7])polygon([81,67],[8,4]);resize([5,37])square(SQUARE_SIZE,false);

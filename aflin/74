@@ -1,0 +1,1 @@
+resize([1,790])circle(7);scale([18,52])mirror([378,9])rotate([4,2])rotate([3,2])square(5);circle(4);circle(72);rotate([3,51])mirror([2,85])translate([482,8])square([614,8]);scale([3,9])square(25);rotate([1872,49])translate([617,2])square(SQUARE_SIZE,true);rotate([9,682])resize([420,83])resize([8,708049])square([1,1497]);

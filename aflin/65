@@ -1,0 +1,1 @@
+square(SQUARE_SIZE,false);translate([5,4])mirror([1,3])scale([322,8263])mirror([7,28])circle(d=7);circle(3509);

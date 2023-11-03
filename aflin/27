@@ -1,0 +1,1 @@
+scale([4361,3])circle(444);square(SQUARE_SIZE,false);square(SQUARE_SIZE,true);circle(d=4);rotate([47,5069])circle(d=4);rotate([5,7634])translate([81,8])polygon([3,6]);

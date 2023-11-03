@@ -1,0 +1,1 @@
+circle(386);rotate([6,8])square(SQUARE_SIZE,false);

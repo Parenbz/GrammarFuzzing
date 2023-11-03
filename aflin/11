@@ -1,0 +1,1 @@
+polygon([6,4]);square(SQUARE_SIZE,true);mirror([85,4])translate([223,5])rotate([7,87])circle(d=4);

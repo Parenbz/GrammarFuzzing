@@ -1,0 +1,1 @@
+circle(1459401);scale([8,73])square(SQUARE_SIZE,false);translate([2,284])circle(1);circle(9);

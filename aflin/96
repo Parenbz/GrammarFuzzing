@@ -1,0 +1,1 @@
+polygon([5,241069]);circle(d=38);resize([8,9])circle(d=8);scale([8,4])resize([2,840])square(SQUARE_SIZE,true);mirror([5,3])mirror([2,5])circle(d=8);

@@ -1,0 +1,1 @@
+rotate([840,7])rotate([9,7])square(SQUARE_SIZE,true);circle(d=4);square(22);square(SQUARE_SIZE,false);

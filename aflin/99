@@ -1,0 +1,1 @@
+rotate([606,94551])mirror([931,4])square(SQUARE_SIZE,false);square(SQUARE_SIZE,false);square(671);translate([7,11739])translate([88,62])translate([469,9])polygon([32,98],[18,496474878]);

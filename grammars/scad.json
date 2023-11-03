@@ -1,0 +1,21 @@
+{
+    "<A>": [["<START_LINE>", ";", "<LINE>"]],
+    "<START_LINE>": [["<OBJECT>"], ["<OPERATOR_LINE>"]],
+    "<LINE>": [["<OBJECT>", ";", "<LINE>"], ["<OPERATOR_LINE>", ";", "<LINE>"], []],
+    "<OBJECT>": [["circle(", "<NUMBER>", ")"], ["circle(d=", "<NUMBER>", ")"],
+                 ["square(", "<SQUARE_SIZE>", ")"], ["square(", "<SQUARE_SIZE>", ",", "<BOOL>", ")"], 
+                 ["polygon(", "<POINTS>", ")"]],
+    "<OPERATOR_LINE>": [["<OPERATOR>", "<OPERATOR_LINE_END>"]],
+    "<NUMBER>": [["<BEGIN_NUM>", "<END_NUM>"]],
+    "<SQUARE_SIZE>": [["<NUMBER>"], ["<TWO_NUM>"]],
+    "<TWO_NUM>": [["[", "<NUMBER>", ",", "<NUMBER>", "]"]],
+    "<BOOL>": [["false"], ["true"]],
+    "<POINTS>": [["<TWO_NUM>", "<END_POINTS>"]],
+    "<OPERATOR>": [["translate(", "<TWO_NUM>", ")"], ["rotate(", "<TWO_NUM>", ")"], ["scale(", "<TWO_NUM>", ")"],
+                   ["resize(", "<TWO_NUM>", ")"], ["mirror(", "<TWO_NUM>", ")"]],
+    "<OPERATOR_LINE_END>": [["<OPERATOR>", "<OPERATOR_LINE_END>"], ["<OBJECT>"]],
+    "<BEGIN_NUM>": [["1"], ["2"], ["3"], ["4"], ["5"], ["6"], ["7"], ["8"], ["9"]],
+    "<END_NUM>": [["<NUM>", "<END_NUM>"], []],
+    "<END_POINTS>": [[",", "<TWO_NUM>", "<END_POINTS>"], []],
+    "<NUM>": [["0"], ["1"], ["2"], ["3"], ["4"], ["5"], ["6"], ["7"], ["8"], ["9"]]
+}
