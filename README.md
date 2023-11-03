@@ -5,7 +5,7 @@
 Результат фаззинга для AFL++ без мутаций:
 <img src=https://github.com/Parenbz/GrammarFuzzing/blob/main/res/Parallel_without_mutators.png>
 
-Почти все мутации здесь нарушают синтаксис .scad, поэтому фаззится только парсер OpenSCAD.
+Почти все мутации здесь нарушают синтаксис .scad, поэтому фаззится только парсер OpenSCAD (Фаззинг с готовыми мутаторами bit flip, byte flip, ... работает намного медленнее).
 
 Пишем упрощённую грамматику .scad в grammatics/scad.json, по ней с помощью Grammar Mutator получаем custom_mutator/libgrammarmutator-scad.so
 
