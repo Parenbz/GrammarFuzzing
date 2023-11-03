@@ -29,3 +29,5 @@ afl-fuzz -i aflin -o aflout -s 127 -S slave3 -- ./openscad -o out.svg @@
 afl-fuzz -i aflin -o aflout -s 128 -S slave4 -- ./openscad -o out.svg @@
 afl-fuzz -i aflin -o aflout -s 129 -S slave5 -- ./openscad -o out.svg @@
 ```
+
+При запуске любой из этих комбинаций мутаторов на одном процессе, скорость значительно падает.
