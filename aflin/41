@@ -1,1 +1,1 @@
-circle(1459401);scale([8,73])square(SQUARE_SIZE,false);translate([2,284])circle(1);circle(9);
+translate([62,5])polygon([6,483],[279,9773],[6,8],[7,72],[223,3]);circle(d=5);

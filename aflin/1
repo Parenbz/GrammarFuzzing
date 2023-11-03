@@ -1,1 +1,1 @@
-square(SQUARE_SIZE,false);polygon([4,6723815819],[3,6]);translate([2,4])rotate([7,3434])square(SQUARE_SIZE,true);resize([5,41])circle(7);resize([407,594694])square(SQUARE_SIZE,false);mirror([6,80])square([37,522]);translate([29,715])polygon([8,2]);rotate([82,162])square(SQUARE_SIZE,false);
+translate([9,2])resize([5,942])rotate([4,5])square(9,true);circle(82);square([5,827884]);scale([2,73])resize([67,3])scale([2,99])rotate([34,13637])polygon([77,3],[3,3]);scale([905,7894])polygon([124,7],[8,49],[38,1]);polygon([5,9]);translate([323,567])polygon([70855,79]);

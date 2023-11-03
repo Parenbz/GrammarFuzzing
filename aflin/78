@@ -1,1 +1,0 @@
-mirror([9,3435])translate([943,43])translate([110008,6])square([70,6]);

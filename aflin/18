@@ -1,1 +1,1 @@
-translate([7,34])rotate([7,9])circle(1);polygon([3,3]);
+translate([46,63])resize([9,471939])square([987,5]);

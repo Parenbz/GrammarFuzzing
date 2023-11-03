@@ -1,1 +1,1 @@
-circle(2);square([60,8]);resize([50,66])translate([7,370])circle(203);circle(d=945);
+square([4,8]);

@@ -1,1 +1,0 @@
-mirror([2,1])rotate([4,6])circle(8);scale([4,3])translate([7,6])circle(d=5);square(SQUARE_SIZE,false);

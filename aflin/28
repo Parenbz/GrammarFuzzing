@@ -1,1 +1,1 @@
-square(69758);circle(d=3);mirror([3,28])circle(d=8);
+rotate([8,9])resize([8,91])rotate([8,8])scale([22,228])polygon([284,3],[335810,92]);polygon([6,31]);

@@ -1,1 +1,1 @@
-rotate([6,8])square([7,186]);
+resize([7,85])circle(6);

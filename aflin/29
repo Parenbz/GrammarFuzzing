@@ -1,1 +1,1 @@
-square(SQUARE_SIZE,true);circle(d=1);square(3);
+rotate([73,237])translate([73267953,7])mirror([8,21])square(15);

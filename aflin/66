@@ -1,1 +1,0 @@
-scale([4,25])mirror([2,898])scale([49465,960])mirror([56,2])square([72,1]);resize([15516,6])square(SQUARE_SIZE,false);

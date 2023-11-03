@@ -1,1 +1,0 @@
-square(SQUARE_SIZE,true);mirror([4,5])square([2,527]);square(SQUARE_SIZE,true);scale([3489990,674])resize([1,38])translate([5,508433])translate([5,69311])translate([667,7])circle(682494);

@@ -1,1 +1,1 @@
-scale([4,22])translate([96,4665])scale([3,2])square(SQUARE_SIZE,false);
+resize([9,48])resize([5,1])scale([760,141])translate([9,531])square([1,6],true);

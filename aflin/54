@@ -1,1 +1,1 @@
-rotate([487,617])resize([3,8])square(SQUARE_SIZE,false);
+rotate([9,85])scale([78,27])scale([374,6])square([9,31]);rotate([21,13])mirror([7,66])circle(4);

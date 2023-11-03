@@ -1,1 +1,0 @@
-scale([36,9])mirror([85,17])circle(d=1);translate([67168,7])circle(d=836);circle(d=346);scale([55,1])mirror([2,19])circle(32);rotate([15,2])circle(d=36);circle(d=5);

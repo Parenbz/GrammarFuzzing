@@ -1,1 +1,0 @@
-circle(8);circle(d=70);scale([9,6])scale([1,5])mirror([1,1])mirror([3956,20])polygon([24780399172669,4]);

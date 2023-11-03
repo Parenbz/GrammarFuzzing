@@ -1,0 +1,1 @@
+translate([3,96])scale([5,2])mirror([506,1])polygon([80,11],[6,633]);circle(891);square([9,4680],false);square(43);polygon([255,2],[487,1]);square(59,false);
