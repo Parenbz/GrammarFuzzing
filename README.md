@@ -1,13 +1,13 @@
 # GrammarFuzzing
 
-Фаззинг [OpenSCAD](https://github.com/openscad/openscad) с помощью Grammar Mutator для AFL++.
+Фаззинг [OpenSCAD](https://github.com/openscad/openscad) с помощью [Grammar Mutator](https://github.com/AFLplusplus/Grammar-Mutator) для AFL++.
 
 Результат фаззинга для AFL++ без мутаций:
 <img src=https://github.com/Parenbz/GrammarFuzzing/blob/main/res/Parallel_without_mutators.png>
 
 Почти все мутации здесь нарушают синтаксис .scad, поэтому фаззится только парсер OpenSCAD.
 
-Пишем упрощённую грамматику .scad в grammatics/scad.json, по ней  помощью Grammar Mutator получаем custom_mutator/libgrammarmutator-scad.so
+Пишем упрощённую грамматику .scad в grammatics/scad.json, по ней с помощью Grammar Mutator получаем custom_mutator/libgrammarmutator-scad.so
 
 Фаззинг только с кастомным мутатором:
 <img src=https://github.com/Parenbz/GrammarFuzzing/blob/main/res/Parallel_grammar_mutator_only.png>
